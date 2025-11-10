@@ -6,5 +6,10 @@ In today's codelabs, you'll be building your first AI agent and your first multi
 
 ## Course Materials
 + [summary podcast episode](https://www.youtube.com/watch?v=zTxvGzpfF-g)
-+ [Introduction to Agents](./Introduction%20to%20Agents.pdf)
++ [Introduction to Agents](./resources/Introduction%20to%20Agents.pdf)
 + [DAY 1 Livestream](https://www.youtube.com/live/ZaUcqznlhv8?si=_miqMKJtzUbK3o4l)
+
+## Code
++ [From Prompt to Action](./code/Day%201A%20From%20Prompt%20to%20Action.ipynb)
++ [Agent Architectures](./code/Day%201b%20Agent%20Architectures.ipynb)
+
