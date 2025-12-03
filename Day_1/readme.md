@@ -1,7 +1,7 @@
 # Day 1 (Introduction to Agents)
 
 ## Course Materials
-+ [Introduction to Agents](./resources/Introduction%20to%20Agents.pdf)
++ [Introduction to Agents](./docs/Introduction%20to%20Agents.pdf)
 + [summary podcast episode](https://www.youtube.com/watch?v=zTxvGzpfF-g)
 + [DAY 1 Livestream](https://www.youtube.com/live/ZaUcqznlhv8?si=_miqMKJtzUbK3o4l)
 

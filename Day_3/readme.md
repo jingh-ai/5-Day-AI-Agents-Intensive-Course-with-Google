@@ -1,7 +1,7 @@
 # Day 3 (Context Engineering: Sessions and Memory)
 
 ## Course Materials
-+ [Context Engineering Sessions and Memory](./resources/Context%20Engineering%20Sessions%20and%20Memory.pdf)
++ [Context Engineering Sessions and Memory](./docs/Context%20Engineering%20Sessions%20and%20Memory.pdf)
 + [summary podcast episode](https://www.youtube.com/watch?v=FMcExVE15a4)
 + [DAY 3 Livestream](https://www.youtube.com/watch?v=8o-GXj8A3nE)
 
