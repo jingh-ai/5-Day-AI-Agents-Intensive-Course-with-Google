@@ -1,7 +1,7 @@
 # Day 2 (Agent Tools & Interoperability with Model Context Protocol (MCP))
 
 ## Course Materials
-+ [Introduction to Agents](./resources/Agent%20Tools%20MCP.pdf)
++ [Agent Tools MCP](./resources/Agent%20Tools%20MCP.pdf)
 + [summary podcast episode](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 + [DAY 2 Livestream](https://www.youtube.com/live/8Gk1BE3uYek)
 
